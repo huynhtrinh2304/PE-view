@@ -1,0 +1,98 @@
+{
+  "e_cblp": {
+    "FileOffset": 2, 
+    "Value": 144, 
+    "Offset": 2
+  }, 
+  "e_crlc": {
+    "FileOffset": 6, 
+    "Value": 0, 
+    "Offset": 6
+  }, 
+  "e_ovno": {
+    "FileOffset": 26, 
+    "Value": 0, 
+    "Offset": 26
+  }, 
+  "e_minalloc": {
+    "FileOffset": 10, 
+    "Value": 0, 
+    "Offset": 10
+  }, 
+  "e_csum": {
+    "FileOffset": 18, 
+    "Value": 0, 
+    "Offset": 18
+  }, 
+  "e_cparhdr": {
+    "FileOffset": 8, 
+    "Value": 4, 
+    "Offset": 8
+  }, 
+  "e_cp": {
+    "FileOffset": 4, 
+    "Value": 3, 
+    "Offset": 4
+  }, 
+  "e_cs": {
+    "FileOffset": 22, 
+    "Value": 0, 
+    "Offset": 22
+  }, 
+  "e_maxalloc": {
+    "FileOffset": 12, 
+    "Value": 65535, 
+    "Offset": 12
+  }, 
+  "e_lfarlc": {
+    "FileOffset": 24, 
+    "Value": 64, 
+    "Offset": 24
+  }, 
+  "e_oemid": {
+    "FileOffset": 36, 
+    "Value": 0, 
+    "Offset": 36
+  }, 
+  "e_lfanew": {
+    "FileOffset": 60, 
+    "Value": 232, 
+    "Offset": 60
+  }, 
+  "e_ss": {
+    "FileOffset": 14, 
+    "Value": 0, 
+    "Offset": 14
+  }, 
+  "e_magic": {
+    "FileOffset": 0, 
+    "Value": 23117, 
+    "Offset": 0
+  }, 
+  "e_oeminfo": {
+    "FileOffset": 38, 
+    "Value": 0, 
+    "Offset": 38
+  }, 
+  "e_res2": {
+    "FileOffset": 40, 
+    "Value": "\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00", 
+    "Offset": 40
+  }, 
+  "e_res": {
+    "FileOffset": 28, 
+    "Value": "\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00", 
+    "Offset": 28
+  }, 
+  "e_sp": {
+    "FileOffset": 16, 
+    "Value": 184, 
+    "Offset": 16
+  }, 
+  "Structure": "IMAGE_DOS_HEADER", 
+  "e_ip": {
+    "FileOffset": 20, 
+    "Value": 0, 
+    "Offset": 20
+  }
+}

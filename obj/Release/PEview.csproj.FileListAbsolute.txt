@@ -1,0 +1,5 @@
+C:\Users\trinhhuynh\source\repos\PEview\obj\Release\PEview.csproj.AssemblyReference.cache
+C:\Users\trinhhuynh\source\repos\PEview\obj\Release\PEview.Form1.resources
+C:\Users\trinhhuynh\source\repos\PEview\obj\Release\PEview.Properties.Resources.resources
+C:\Users\trinhhuynh\source\repos\PEview\obj\Release\PEview.csproj.GenerateResource.cache
+C:\Users\trinhhuynh\source\repos\PEview\obj\Release\PEview.csproj.CoreCompileInputs.cache

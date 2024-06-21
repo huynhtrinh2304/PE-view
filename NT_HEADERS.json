@@ -1,0 +1,8 @@
+{
+  "Structure": "IMAGE_NT_HEADERS", 
+  "Signature": {
+    "FileOffset": 232, 
+    "Value": 17744, 
+    "Offset": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "NumberOfSections": {
+    "FileOffset": 102, 
+    "Value": 3, 
+    "Offset": 2
+  }, 
+  "TimeDateStamp": {
+    "FileOffset": 104, 
+    "Value": "0x0        [Thu Jan 01 00:00:00 1970 UTC]", 
+    "Offset": 4
+  }, 
+  "PointerToSymbolTable": {
+    "FileOffset": 108, 
+    "Value": 0, 
+    "Offset": 8
+  }, 
+  "NumberOfSymbols": {
+    "FileOffset": 112, 
+    "Value": 0, 
+    "Offset": 12
+  }, 
+  "Machine": {
+    "FileOffset": 100, 
+    "Value": 332, 
+    "Offset": 0
+  }, 
+  "Characteristics": {
+    "FileOffset": 118, 
+    "Value": 271, 
+    "Offset": 18
+  }, 
+  "SizeOfOptionalHeader": {
+    "FileOffset": 116, 
+    "Value": 224, 
+    "Offset": 16
+  }, 
+  "Structure": "IMAGE_FILE_HEADER"
+}

@@ -1,0 +1,220 @@
+[
+  {
+    "PointerToRawData": {
+      "FileOffset": 500, 
+      "Value": 4096, 
+      "Offset": 20
+    }, 
+    "SHA1": "150d709dcae7e0ae30ac6e5c76fda74ce168a62b", 
+    "SHA256": "44ab4d055abe09f315f217245f131fa4b9c162ffc992034b28ada7d2e8e8c87f", 
+    "Name": {
+      "FileOffset": 480, 
+      "Value": ".text\\x00\\x00\\x00", 
+      "Offset": 0
+    }, 
+    "NumberOfRelocations": {
+      "FileOffset": 512, 
+      "Value": 0, 
+      "Offset": 32
+    }, 
+    "Misc_VirtualSize": {
+      "FileOffset": 488, 
+      "Value": 2416, 
+      "Offset": 8
+    }, 
+    "Characteristics": {
+      "FileOffset": 516, 
+      "Value": 1610612768, 
+      "Offset": 36
+    }, 
+    "Misc": {
+      "FileOffset": 488, 
+      "Value": 2416, 
+      "Offset": 8
+    }, 
+    "PointerToLinenumbers": {
+      "FileOffset": 508, 
+      "Value": 0, 
+      "Offset": 28
+    }, 
+    "SizeOfRawData": {
+      "FileOffset": 496, 
+      "Value": 4096, 
+      "Offset": 16
+    }, 
+    "Misc_PhysicalAddress": {
+      "FileOffset": 488, 
+      "Value": 2416, 
+      "Offset": 8
+    }, 
+    "PointerToRelocations": {
+      "FileOffset": 504, 
+      "Value": 0, 
+      "Offset": 24
+    }, 
+    "Flags": [
+      "IMAGE_SCN_MEM_EXECUTE", 
+      "IMAGE_SCN_CNT_CODE", 
+      "IMAGE_SCN_MEM_READ"
+    ], 
+    "SHA512": "9590a7528bf94ee65fe03eb025c902b72af0008a3e5512ac0c405774c5511721b62f4b0d081566ca7487b2708415249d933f0f81caf714e8798bddd9bcb99c2f", 
+    "MD5": "7e39ebe7cdeda4c636d513a0fe140ff4", 
+    "Entropy": 4.450864635692282, 
+    "VirtualAddress": {
+      "FileOffset": 492, 
+      "Value": 4096, 
+      "Offset": 12
+    }, 
+    "Structure": "IMAGE_SECTION_HEADER", 
+    "NumberOfLinenumbers": {
+      "FileOffset": 514, 
+      "Value": 0, 
+      "Offset": 34
+    }
+  }, 
+  {
+    "PointerToRawData": {
+      "FileOffset": 540, 
+      "Value": 8192, 
+      "Offset": 20
+    }, 
+    "SHA1": "9a80eabe5c64342b6bc9f4f31212ceb37b014055", 
+    "SHA256": "c6c6d685937af139911a720a86a1d901e30d015c8bc4a0d27756141e231df5eb", 
+    "Name": {
+      "FileOffset": 520, 
+      "Value": ".rdata\\x00\\x00", 
+      "Offset": 0
+    }, 
+    "NumberOfRelocations": {
+      "FileOffset": 552, 
+      "Value": 0, 
+      "Offset": 32
+    }, 
+    "Misc_VirtualSize": {
+      "FileOffset": 528, 
+      "Value": 690, 
+      "Offset": 8
+    }, 
+    "Characteristics": {
+      "FileOffset": 556, 
+      "Value": 1073741888, 
+      "Offset": 36
+    }, 
+    "Misc": {
+      "FileOffset": 528, 
+      "Value": 690, 
+      "Offset": 8
+    }, 
+    "PointerToLinenumbers": {
+      "FileOffset": 548, 
+      "Value": 0, 
+      "Offset": 28
+    }, 
+    "SizeOfRawData": {
+      "FileOffset": 536, 
+      "Value": 4096, 
+      "Offset": 16
+    }, 
+    "Misc_PhysicalAddress": {
+      "FileOffset": 528, 
+      "Value": 690, 
+      "Offset": 8
+    }, 
+    "PointerToRelocations": {
+      "FileOffset": 544, 
+      "Value": 0, 
+      "Offset": 24
+    }, 
+    "Flags": [
+      "IMAGE_SCN_CNT_INITIALIZED_DATA", 
+      "IMAGE_SCN_MEM_READ"
+    ], 
+    "SHA512": "11b5f1ca30a54b674fb892a3d0caac3f93a4cd5325d7bb598ee8411f628f91ea9f6cb6e0be3b17daa4d3cb63f69bdd3f7227b15a916789a3fba42c13be87fde5", 
+    "MD5": "2de0f3a50219cb3d0dc891c4fbf6f02a", 
+    "Entropy": 1.1324520553698394, 
+    "VirtualAddress": {
+      "FileOffset": 532, 
+      "Value": 8192, 
+      "Offset": 12
+    }, 
+    "Structure": "IMAGE_SECTION_HEADER", 
+    "NumberOfLinenumbers": {
+      "FileOffset": 554, 
+      "Value": 0, 
+      "Offset": 34
+    }
+  }, 
+  {
+    "PointerToRawData": {
+      "FileOffset": 580, 
+      "Value": 12288, 
+      "Offset": 20
+    }, 
+    "SHA1": "129de8d9c6bbe1ba01c6b0d5ce5781c61eb042dc", 
+    "SHA256": "86aa10f4f5e696b8953e0a639a9725869803d85c1642d3e86e9fc7574d2eedb3", 
+    "Name": {
+      "FileOffset": 560, 
+      "Value": ".data\\x00\\x00\\x00", 
+      "Offset": 0
+    }, 
+    "NumberOfRelocations": {
+      "FileOffset": 592, 
+      "Value": 0, 
+      "Offset": 32
+    }, 
+    "Misc_VirtualSize": {
+      "FileOffset": 568, 
+      "Value": 252, 
+      "Offset": 8
+    }, 
+    "Characteristics": {
+      "FileOffset": 596, 
+      "Value": 3221225536, 
+      "Offset": 36
+    }, 
+    "Misc": {
+      "FileOffset": 568, 
+      "Value": 252, 
+      "Offset": 8
+    }, 
+    "PointerToLinenumbers": {
+      "FileOffset": 588, 
+      "Value": 0, 
+      "Offset": 28
+    }, 
+    "SizeOfRawData": {
+      "FileOffset": 576, 
+      "Value": 4096, 
+      "Offset": 16
+    }, 
+    "Misc_PhysicalAddress": {
+      "FileOffset": 568, 
+      "Value": 252, 
+      "Offset": 8
+    }, 
+    "PointerToRelocations": {
+      "FileOffset": 584, 
+      "Value": 0, 
+      "Offset": 24
+    }, 
+    "Flags": [
+      "IMAGE_SCN_CNT_INITIALIZED_DATA", 
+      "IMAGE_SCN_MEM_WRITE", 
+      "IMAGE_SCN_MEM_READ"
+    ], 
+    "SHA512": "6a28b8bf3c53fa3265a38c09faaae514a607ccb24455d04758ac1277bb1936183c4f2d5cf6d92730db0925bfeb4820a66240c50543062a5511ea20048781234f", 
+    "MD5": "f5e2ba1465f131f57b0629e96bbe107e", 
+    "Entropy": 0.4388540058092101, 
+    "VirtualAddress": {
+      "FileOffset": 572, 
+      "Value": 12288, 
+      "Offset": 12
+    }, 
+    "Structure": "IMAGE_SECTION_HEADER", 
+    "NumberOfLinenumbers": {
+      "FileOffset": 594, 
+      "Value": 0, 
+      "Offset": 34
+    }
+  }
+]

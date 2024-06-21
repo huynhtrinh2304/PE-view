@@ -1,0 +1,210 @@
+[
+  {
+    "VirtualAddress": {
+      "FileOffset": 352, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_EXPORT", 
+    "Size": {
+      "FileOffset": 356, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 360, 
+      "Value": 8316, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_IMPORT", 
+    "Size": {
+      "FileOffset": 364, 
+      "Value": 60, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 368, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_RESOURCE", 
+    "Size": {
+      "FileOffset": 372, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 376, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_EXCEPTION", 
+    "Size": {
+      "FileOffset": 380, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 384, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_SECURITY", 
+    "Size": {
+      "FileOffset": 388, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 392, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_BASERELOC", 
+    "Size": {
+      "FileOffset": 396, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 400, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_DEBUG", 
+    "Size": {
+      "FileOffset": 404, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 408, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_COPYRIGHT", 
+    "Size": {
+      "FileOffset": 412, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 416, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_GLOBALPTR", 
+    "Size": {
+      "FileOffset": 420, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 424, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_TLS", 
+    "Size": {
+      "FileOffset": 428, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 432, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_LOAD_CONFIG", 
+    "Size": {
+      "FileOffset": 436, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 440, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_BOUND_IMPORT", 
+    "Size": {
+      "FileOffset": 444, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 448, 
+      "Value": 8192, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_IAT", 
+    "Size": {
+      "FileOffset": 452, 
+      "Value": 108, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 456, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_DELAY_IMPORT", 
+    "Size": {
+      "FileOffset": 460, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 464, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_COM_DESCRIPTOR", 
+    "Size": {
+      "FileOffset": 468, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }, 
+  {
+    "VirtualAddress": {
+      "FileOffset": 472, 
+      "Value": 0, 
+      "Offset": 0
+    }, 
+    "Structure": "IMAGE_DIRECTORY_ENTRY_RESERVED", 
+    "Size": {
+      "FileOffset": 476, 
+      "Value": 0, 
+      "Offset": 4
+    }
+  }
+]

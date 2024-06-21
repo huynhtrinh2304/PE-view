@@ -1,0 +1,13 @@
+C:\Users\trinhhuynh\source\repos\PEview\bin\Debug\PEview.exe.config
+C:\Users\trinhhuynh\source\repos\PEview\bin\Debug\PEview.exe
+C:\Users\trinhhuynh\source\repos\PEview\bin\Debug\PEview.pdb
+C:\Users\trinhhuynh\source\repos\PEview\obj\Debug\PEview.csproj.AssemblyReference.cache
+C:\Users\trinhhuynh\source\repos\PEview\obj\Debug\PEview.Properties.Resources.resources
+C:\Users\trinhhuynh\source\repos\PEview\obj\Debug\PEview.csproj.GenerateResource.cache
+C:\Users\trinhhuynh\source\repos\PEview\obj\Debug\PEview.csproj.CoreCompileInputs.cache
+C:\Users\trinhhuynh\source\repos\PEview\obj\Debug\PEview.exe
+C:\Users\trinhhuynh\source\repos\PEview\obj\Debug\PEview.pdb
+C:\Users\trinhhuynh\source\repos\PEview\obj\Debug\PEview.Form1.resources
+C:\Users\trinhhuynh\source\repos\PEview\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trinhhuynh\source\repos\PEview\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trinhhuynh\source\repos\PEview\obj\Debug\PEview.csproj.Up2Date
